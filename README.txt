@@ -8,4 +8,4 @@ I highly recommend to keep on hand these articles about DESeq2. They are really 
 https://rstudio-pubs-static.s3.amazonaws.com/329027_593046fb6d7a427da6b2c538caf601e1.html#example-1-two-group-comparison
 http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
 
-Any question don't doubt and ask.
+Any question don't doubt and ask me :).
